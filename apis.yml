@@ -1,7 +1,11 @@
 aid: owens-and-minor
-url: https://raw.githubusercontent.com/api-evangelist/owens-and-minor/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/owens-and-minor/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.owens-and-minor.com
+description: >-
+  Owens & Minor is a global healthcare solutions company providing essential products
+  and services to healthcare providers and manufacturers across the continuum of care.
