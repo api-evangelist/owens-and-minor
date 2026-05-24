@@ -34,6 +34,8 @@ common:
     url: https://www.owens-minor.com/careers/
   - type: Contact
     url: https://www.owens-minor.com/contact-us/
+  - type: LLMsTxt
+    url: https://owens-minor.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
