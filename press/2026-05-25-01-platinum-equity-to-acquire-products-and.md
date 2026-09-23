@@ -1,7 +1,9 @@
 ---
 title: PLATINUM EQUITY TO ACQUIRE PRODUCTS & ...
 url: https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-products--healthcare-services-business-from-owens--minor-302577545.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens & Minor" press release artificial intelligence'
 position: 1
 source: serpapi-google

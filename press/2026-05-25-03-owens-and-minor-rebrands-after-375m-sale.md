@@ -1,7 +1,9 @@
 ---
 title: Owens & Minor rebrands after $375M sale
 url: https://www.beckershospitalreview.com/supply-chain/owens-minor-rebrands-after-375m-sale/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens & Minor" press release artificial intelligence'
 position: 3
 source: serpapi-google
